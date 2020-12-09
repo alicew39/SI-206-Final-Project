@@ -1,0 +1,4 @@
+The average health for all champions in League of Legends is 559.01
+The average attack damage for all champions in League of Legends is 59.42
+The average level for Challenger players in League of Legends above 6 points is 241.05
+The average winrate for Challenger players in League of Legends above 6 points is 55.14%

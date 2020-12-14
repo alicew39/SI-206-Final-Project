@@ -15,7 +15,7 @@ import plotly.graph_objects as go
 import time
 
 # API key needs to be regenerated every 24 hours. Go to https://developer.riotgames.com/ and create an account to get a free developer api key.
-API_KEY = 'RGAPI-5de559eb-1b93-4ad6-99bd-6fe4ddd3a121'
+API_KEY = 'RGAPI-678dee60-b6f7-4e3d-ae6c-ce2ad8ea380c'
 # File to write calculation results
 OUTPUT_FNAME = 'results.txt'
 # Cache file. Used to keep API requests limited
